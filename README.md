@@ -1,2 +1,2 @@
 # bioinformatics_algorithms
-CS481/583 Course Web Page
+Bilkent University CS481/583 Course Web Page
