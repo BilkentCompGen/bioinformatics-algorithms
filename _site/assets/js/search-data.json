@@ -1,0 +1,100 @@
+{"0": {
+    "doc": "Bioinformatics Algorithms",
+    "title": "CS 481/583: Bioinformatics Algorithms",
+    "content": "Bilkent University, Spring 2025 . more like: (bio)informatics ALGORITHMS . Instructor: Can Alkan . Class Hours: Tue 13:30-15:20 - Fri 09:30-10:20 . Class room: B-Z08 . Office hour: By appointment (Public calendar, changes frequently) . Staff contact: Staff . NOTE: Some biology, molecular biology, genetics background would help, but not required. Basics regarding the topic will be covered in class. Prerequisites: Elementary discrete mathematics, basic algorithms and data structures, and programming proficiency with, e.g., C/C++/Java will be expected. Knowledge of elementary combinatorics and probability, fundamental algorithms for sorting, searching, hashing and dynamic programming, elementary graph algorithms would be very helpful. Textbook: None mandatory, some recommended material . Grading: There will be one midterm exam (25%) and a final exam (35%). A further 30% of the final grade will be based on homework/programming assignments, and 10% will be based on quizzes. Grading Policy: Note that we do not discuss with students about grades. Therefore, we will not answer any questions about the passing grades and/or students’ requests for passing the course. Any emails sent to this effect will be omitted. Planned Lecture Cancellations: The following lectures are most likely to be canceled due to conference travels. | April 25, 2025 | April 29, 2025 | . Course Slides: CHECK HERE . Key Dates (tentative, subject to change): . | Midterm: March 25, 2025 – during class hours | Quizzes: . | Quiz 1: February 11, 2025 | Quiz 2: March 4, 2025 | Quiz 3: March 18, 2025 | Quiz 4: April 15, 2025 | Quiz 5: May 13, 2025 | . | Homeworks: . | HW0: . | Assigned: February 7, 2025 | Deadline: February 15, 2025 | . | HW1: . | Assigned: February 17, 2025 | Deadline: February 28, 2025 | . | HW2: . | Assigned: March 6, 2025 | Deadline: March 21, 2025 | . | HW3: . | Assigned: April 1, 2025 | Deadline: April 15, 2025 | . | HW4: . | Assigned: April 17, 2025 | Deadline: April 30, 2025 | . | HW5: . | Assigned: May 6, 2025 | Deadline: May 18, 2025 | . | . | . Important information for exams: . | You will be given the opportunity to bring cheat sheet to the midterm and final exams (not the quizzes). DO NOT try to memorize anything, instead grasp the logic behind each algorithm &amp; data structure. | Write legibly, and make your answers clear. | Unintelligible answers may fail to receive credit. | In the case of a \"design an algorithm\" question, you are expected to give only pseudocode. Any \"real\" code may not be graded. | . Frequently Asked Questions: Here . ",
+    "url": "/bioinformatics-algorithms/",
+    
+    "relUrl": "/"
+  },"1": {
+    "doc": "Bioinformatics Algorithms",
+    "title": "Bioinformatics Algorithms",
+    "content": " ",
+    "url": "/bioinformatics-algorithms/",
+    
+    "relUrl": "/"
+  },"2": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "url": "/bioinformatics-algorithms/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"3": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
+    "url": "/bioinformatics-algorithms/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"4": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Apr 1 &middot; 0 min read Hello world! . ",
+    "url": "/bioinformatics-algorithms/announcements/",
+    
+    "relUrl": "/announcements/"
+  },"5": {
+    "doc": "F.A.Q",
+    "title": "Frequently Asked Questions",
+    "content": "Please read these for your own safety. | I need at least grade (C/C+/B etc ..) to be able to graduate or keep my status at a certain level (satisfactory, honor, high honor, etc.). Can you please increase my grade? . | No. | . | I am likely receiving an F and fail the course. Can you lower the F threshold? . | No. | . | I need at least some specific grade to keep my cGPA above some threshold. Can you please give me at least (something)? . | See the question above. | . | I think I deserve more partial credits from question X in exam. | No. | . | Which topics should I prioritize to study more for the midterm and/or final exam? . | All of them. | . | . ",
+    "url": "/bioinformatics-algorithms/faq/#frequently-asked-questions",
+    
+    "relUrl": "/faq/#frequently-asked-questions"
+  },"6": {
+    "doc": "F.A.Q",
+    "title": "F.A.Q",
+    "content": " ",
+    "url": "/bioinformatics-algorithms/faq/",
+    
+    "relUrl": "/faq/"
+  },"7": {
+    "doc": "Recommended Materials",
+    "title": "Recommended Materials",
+    "content": ". | A detailed introduction to genome-scale algorithms.Genome-Scale Algorithm Design, Veli Mäkinen, Djamal Belazzougui, Fabio Cunial, Alexandru I. Tomescu, 2015, Cambridge University Press . | Available in full through Bilkent library | . | An Introduction to Bioinformatics Algorithms (Computational Molecular Biology), Neil Jones and Pavel Pevzner, MIT Press, 2004 . | Bioinformatics algorithms : an active learning approach, Phillip Compeau and Pavel Pevzner, Active Learning Publishers; 2018 . | Some chapters available online | . | Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids, Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison, Cambridge University Press . | Available in full through Bilkent library | . | Bioinformatics: The Machine Learning Approach, Second Edition, Pierre Baldi, Soren Brunak, MIT Press . | Algorithms on Strings, Trees, and Sequences: Computer Science and Computational Biology, Dan Gusfield, Cambridge University Press . | Available in full through Bilkent library | . | . ",
+    "url": "/bioinformatics-algorithms/materials/",
+    
+    "relUrl": "/materials/"
+  },"8": {
+    "doc": "Course Slides",
+    "title": "Course Slides",
+    "content": "(updated as of Fall 2022 - subject to further updates) . Note: Some slides are adapted from https://www.bioinformaticsalgorithms.org/ . All pseudocodes in the slides are provided as guidelines, not meant for direct “copy-paste” implementation. | 0- Introduction | 0b- Introduction | 1- Motif Finding &amp; Algorithm Design Techniques | 2- Exact String Matching - Knuth-Morris-Pratt and Boyer-Moore | 3- Exact String Matching - Rabin-Karp, Finite Automata. Shift/And | 4- Pattern Matching - Hashing, keyword trees, and suffix trees, suffix arrays, Aho-Corasick | 5- Burrows-Wheeler Transformation and Ferragina-Manzini index | 6- Dynamic programming, Manhattan grid, edit distance, longest common subsequence | 7- Global alignment, affine gap penalties, local alignment, Needleman-Wunsch and Smith-Waterman . | Needleman-Wunsch with affine gaps sample | Smith-Waterman samples . | Static | Random sequence generator | . | . | 8- Banded alignment, linear space alignment, block edit distance, Four Russians method | 9- Multiple sequence alignment | 10- Phylogenetic tree construction: Guide trees, evolutionary trees - Neighbor-Joining and UPGMA, parsimony, Sankoff and Fitch algorithms | 11 - Heuristic sequence search. Short introduction to BLAST. Hash table indexes, minimizers. Chaining | 12 - MEMs, MUMs, BWA-MEM, minimap2, K-mer data structures | 13- Graphs in genome analysis. OLC, de Bruijn, string graphs, aligning reads to graphs | 14- Applications: short introduction to genome sequencing. Current platforms and data types. Standard file formats | 15- Applications: programming libraries, application-specific programming languages | . ",
+    "url": "/bioinformatics-algorithms/slides/",
+    
+    "relUrl": "/slides/"
+  },"9": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "/bioinformatics-algorithms/staff/",
+    
+    "relUrl": "/staff/"
+  },"10": {
+    "doc": "Staff",
+    "title": "Instructor",
+    "content": "Can Alkan . calkan@cs.bilkent.edu.tr . ",
+    "url": "/bioinformatics-algorithms/staff/#instructor",
+    
+    "relUrl": "/staff/#instructor"
+  },"11": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Akmuhammet Ashyralyyev . akmuhammet@bilkent.edu.tr . Zülal Bingöl . zulal.bingol@bilkent.edu.tr . ",
+    "url": "/bioinformatics-algorithms/staff/#teaching-assistants",
+    
+    "relUrl": "/staff/#teaching-assistants"
+  },"12": {
+    "doc": "Staff",
+    "title": "Grader",
+    "content": "Ecem İlgün . ecemilgun@bilkent.edu.tr . ",
+    "url": "/bioinformatics-algorithms/staff/#grader",
+    
+    "relUrl": "/staff/#grader"
+  },"13": {
+    "doc": "Staff",
+    "title": "~Honorary TA 🇨🇷",
+    "content": "Ricardo Roman-Brenes . ricardo@bilkent.edu.tr . ",
+    "url": "/bioinformatics-algorithms/staff/#honorary-ta-",
+    
+    "relUrl": "/staff/#honorary-ta-"
+  }
+}
