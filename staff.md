@@ -38,7 +38,7 @@ nav_order: 3
 {% assign randoms = site.staffers | where: 'role', 'Random' %}
 {% assign num_randoms = randoms | size %}
 {% if num_randoms != 0 %}
-## ~Honorary TA 🇨🇷
+## ![image](https://github.com/user-attachments/assets/bc0f9a26-53f0-4e02-972c-5b05e1a21c10)🇨🇷
 
 {% for staffer in randoms %}
 {{ staffer }}
