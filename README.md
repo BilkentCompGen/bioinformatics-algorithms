@@ -56,7 +56,7 @@ more like: <sup>(bio)</sup>informatics **ALGORITHMS**
 </ul>
 
 ---
-**Course Slides:** [CHECK HERE](https://www.alkanlab.org/bioinformatics-algorithms/staff)
+**Course Slides:** [CHECK HERE](https://www.alkanlab.org/bioinformatics-algorithms/slides)
 
 ---
 
