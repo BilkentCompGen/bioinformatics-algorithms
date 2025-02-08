@@ -38,7 +38,7 @@ nav_order: 3
 {% assign randoms = site.staffers | where: 'role', 'Random' %}
 {% assign num_randoms = randoms | size %}
 {% if num_randoms != 0 %}
-## ![image](https://github.com/user-attachments/assets/bc0f9a26-53f0-4e02-972c-5b05e1a21c10)![image](http://www.abflags.com/_flags/flags-of-the-world/Costa%20Rica%20flag/Costa%20Rica%20flag-M-anim.gif)
+## ![image](https://github.com/user-attachments/assets/bc0f9a26-53f0-4e02-972c-5b05e1a21c10)![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKaVfFhWsnpPuvqAKBpM25Ir98dVvyVQPk0bL_10_pBee1AqKLbZPTK6S02_rXLGMvZ3rCPYUJBme2koRCsuXfpJvLoOTPlS6ork4X9aul_ZKDF3B6D54hdXpywKIAuIUC_AUJTAru-kI/s0/costa-rica-flag-icon-animation.gif)
 
 
 {% for staffer in randoms %}
