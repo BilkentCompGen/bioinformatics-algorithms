@@ -38,7 +38,7 @@ nav_order: 3
 {% assign randoms = site.staffers | where: 'role', 'Random' %}
 {% assign num_randoms = randoms | size %}
 {% if num_randoms != 0 %}
-## ![image](https://github.com/user-attachments/assets/bc0f9a26-53f0-4e02-972c-5b05e1a21c10)![image](https://github.com/BilkentCompGen/bioinformatics-algorithms/blob/main/assets/images/costa-rica-flag-icon-animation.gif)
+## ![image](https://github.com/user-attachments/assets/bc0f9a26-53f0-4e02-972c-5b05e1a21c10)![image](http://www.abflags.com/_flags/flags-of-the-world/Costa%20Rica%20flag/Costa%20Rica%20flag-M-anim.gif)
 
 
 {% for staffer in randoms %}
