@@ -23,8 +23,8 @@ All pseudocodes in the slides are provided as guidelines, not meant for direct "
 - [**7- Global alignment, affine gap penalties, local alignment, Needleman-Wunsch and Smith-Waterman**](https://docs.google.com/presentation/d/15urWu7TXmdQ5ocRs-k2O5zGPXaHu-oehhpGND3S_SbE/edit?usp=sharing)
     - [**Needleman-Wunsch with affine gaps sample**](https://docs.google.com/spreadsheets/d/1-V6n0QG81SlYpYHx4dVGzjQ4DO90hnJRsKit_jQsr24/edit?usp=sharing)
     - **Smith-Waterman samples**
-        - [**Static**](https://www.alkanlab.org/bioinformatics-algorithms/pdfslides/Smith-Waterman%20Algorithm2_edited-static.xls)
-        - [**Random sequence generator**](https://www.alkanlab.org/bioinformatics-algorithms/pdfslides/Smith-Waterman%20Algorithm2_edited.xls)
+        - [**Static**](https://www.alkanlab.org/bioinformatics-algorithms/smith-waterman-samples/Smith-Waterman%20Algorithm2_edited-static.xls)
+        - [**Random sequence generator**](https://www.alkanlab.org/bioinformatics-algorithms/smith-waterman-samples/Smith-Waterman%20Algorithm2_edited.xls)
 - [**8- Banded alignment, linear space alignment, block edit distance, Four Russians method**](https://docs.google.com/presentation/d/1gbBN53wEUF1s_0bhZsALrBhATP0XTWXfe8a-IOpgJkY/edit?usp=sharing)
 - [**9- Multiple sequence alignment**](https://docs.google.com/presentation/d/1MXi5hZvysIpFuyTlEYR9MHVCVzIB5jJ3WmnjNcaopmI/edit?usp=sharing)
 - [**10- Phylogenetic tree construction: Guide trees, evolutionary trees - Neighbor-Joining and UPGMA, parsimony, Sankoff and Fitch algorithms**](https://docs.google.com/presentation/d/1c626-ISa8nqAHmxN0_Pf7r6LUAC9KyTkYrfAX_a3xH8/edit?usp=sharing)
