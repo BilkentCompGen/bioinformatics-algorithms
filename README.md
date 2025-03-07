@@ -67,7 +67,7 @@ more like: <sup>(bio)</sup>informatics **ALGORITHMS**
     - Quiz 2: March 4, 2025
     - Quiz 3: March 18, 2025
     - Quiz 4: April 15, 2025
-    - Quiz 5: May 13, 2025
+    - Quiz 5: May 6, 2025
   - Homeworks:
     - HW0:
       - Assigned: February 7, 2025
