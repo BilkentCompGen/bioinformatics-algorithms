@@ -61,7 +61,7 @@ more like: <sup>(bio)</sup>informatics **ALGORITHMS**
 ---
 
 **Key Dates (tentative, subject to change)**:
-  - Midterm:  March 25, 2025 -- during class hours
+  - Midterm:  April 8, 2025 -- during class hours
   - Quizzes:
     - Quiz 1: February 11, 2025
     - Quiz 2: March 4, 2025
@@ -77,7 +77,7 @@ more like: <sup>(bio)</sup>informatics **ALGORITHMS**
       - Deadline: February 28, 2025
     - HW2:
       - Assigned: March 6, 2025
-      - Deadline: March 21, 2025
+      - Deadline: March 23, 2025
     - HW3:
       - Assigned: April 1, 2025
       - Deadline: April 15, 2025
