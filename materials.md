@@ -14,7 +14,7 @@ nav_order: 2
 - **An Introduction to Bioinformatics Algorithms (Computational Molecular Biology), Neil Jones and Pavel Pevzner, MIT Press, 2004**
 
 - **Bioinformatics algorithms : an active learning approach, Phillip Compeau and Pavel Pevzner, Active Learning Publishers; 2018**
-    - [*Some chapters available online*](hhttps://www.bioinformaticsalgorithms.org/)
+    - [*Some chapters available online*](https://www.bioinformaticsalgorithms.org/)
 
 - **Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids, Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison, Cambridge University Press**
     - [*Available in full through Bilkent library*](https://www.cambridge.org/core/books/biological-sequence-analysis/921BB7B78B745198829EF96BC7E0F29D)
