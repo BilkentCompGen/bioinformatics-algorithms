@@ -79,14 +79,14 @@ more like: <sup>(bio)</sup>informatics **ALGORITHMS**
       - Assigned: March 6, 2025
       - Deadline: March 23, 2025
     - HW3:
-      - Assigned: April 1, 2025
-      - Deadline: April 15, 2025
+      - Assigned: April 8, 2025
+      - Deadline: April 18, 2025
     - HW4:
-      - Assigned: April 17, 2025
-      - Deadline: April 30, 2025
+      - Assigned: TBA
+      - Deadline: TBA
     - HW5:
-      - Assigned: May 6, 2025
-      - Deadline: May 18, 2025
+      - Assigned: TBA
+      - Deadline: TBA
 
 **Important information for exams**:
 <ul style="padding-left: 50px;">
