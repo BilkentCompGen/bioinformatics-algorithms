@@ -49,7 +49,7 @@ more like: <sup>(bio)</sup>informatics **ALGORITHMS**
 
 ---
 
-**Planned Lecture Cancellations:** The following lectures are most likely to be canceled due to conference travels.
+**Planned Lecture Cancellations:** The following lectures are most likely to be canceled due to [conference](https://recomb.org/recomb2025/) travels.
 <ul style="padding-left: 50px;">
   <li>April 25, 2025</li>
   <li>April 29, 2025</li>
