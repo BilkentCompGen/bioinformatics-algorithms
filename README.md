@@ -20,27 +20,7 @@ seo:
     <h1>CS 481/583: Bioinformatics Algorithms</h1>
     <p class="mb-2 fs-6 fw-300">Bilkent University, Spring 2025</p>
   </div>
-  <div>
-    <a href="https://recomb.org/recomb2025/">
-      <img src="assets/images/recomb25.png" alt="Recomb 2025" style="max-width: 175px;">
-    </a>
-  </div>
 </div>
-
-
-**Lecture Cancellation🥳:** Thanks to the [RECOMB 2025](https://recomb.org/recomb2025/), the following lectures are going to be canceled. 
-<ul style="padding-left: 50px;">
-  <li>April 25, 2025</li>
-  <li>April 29, 2025</li>
-</ul>
-
-RECOMB is one of our all-time favourite annual bioinformatics conferences and it's the coolest one out there 😎. So, if you haven't heard of it yet you might wanna check it out 👀.
-
-This year, it’s happening in Seoul 🇰🇷 (honestly, should be renamed to K-RECOMB), and every year, it hops to a different continent like it’s on a world tour. In 2023, it was in [İstanbul 🇹🇷](https://recomb2023.bilkent.edu.tr/) and obviously that made it the best one.
-
-If you’re curious (or just wanna see some top-tier science talks), you can binge the presentations from past RECOMBs — including the iconic 2023 edition — [right here](https://www.youtube.com/@recombconf).
-
----
 
 more like: <sup>(bio)</sup>informatics **ALGORITHMS**
 
@@ -98,8 +78,16 @@ more like: <sup>(bio)</sup>informatics **ALGORITHMS**
       - Assigned: April 21, 2025
       - Deadline: May 1, 2025
     - HW5:
-      - Assigned: TBA
-      - Deadline: TBA
+      - Assigned: May 5, 2025
+      - Deadline: May 16, 2025
+
+---
+
+**Lecture Cancellations:** The following lectures are canceled due to [RECOMB 2025](https://recomb.org/recomb2025/). 
+<ul style="padding-left: 50px;">
+  <li>April 25, 2025</li>
+  <li>April 29, 2025</li>
+</ul>
 
 **Important information for exams**:
 <ul style="padding-left: 50px;">
