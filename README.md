@@ -39,7 +39,7 @@ more like: <sup>(bio)</sup>informatics **ALGORITHMS**
 
 ---
 
-**Prerequisites:** Elementary discrete mathematics, basic algorithms and data structures, and programming proficiency with, e.g., C/C++/Java will be expected. Knowledge of elementary combinatorics and probability, fundamental algorithms for sorting, searching, hashing and dynamic programming, elementary graph algorithms would be very helpful.
+**Prerequisites:** Elementary discrete mathematics, basic algorithms and data structures, and programming proficiency with **compiled languages**, e.g., C/C++/Java/Rust will be expected. Knowledge of elementary combinatorics and probability, fundamental algorithms for sorting, searching, hashing and dynamic programming, elementary graph algorithms would be very helpful.
 
 **Textbook:** None mandatory, [some recommended material](https://www.alkanlab.org/bioinformatics-algorithms/materials)
 
